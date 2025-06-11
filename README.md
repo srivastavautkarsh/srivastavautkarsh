@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Utkarsh
 
 
-**srivastavautkarsh/srivastavautkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**srivastavautkarsh/srivastavautkarsh** 
 
 - 🔭 I’m currently an AI consultant at butternut.ai but I am open to new roles that align with my skillset , expertise and passion
 - 🌱 I’m currently learning AI and product management principals
