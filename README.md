@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **srivastavautkarsh/srivastavautkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,8 +17,6 @@ about.me/srivastavautkarsh
 Alternate profile: https://github.com/utkarshsrivastava
 Leetcode : https://leetcode.com/u/srivastavautkarsh_
 
-- ⚡ Fun fact:
- - I speak 4 languages and love learning about Indo-European linguistic roots.
- - I 
-
--->
+My Talisman : - Design and Math is the language of universe
+- ⚡ Fun fact: 
+ - I speak 4 languages and love learning about Indo-European linguistic roots 
