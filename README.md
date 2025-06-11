@@ -13,7 +13,7 @@
  - srivastavautkarsh@myyahoo.com
  - about.me/srivastavautkarsh
 - Alternate profile: https://github.com/utkarshsrivastava
-- Leetcode : https://leetcode.com/u/srivastavautkarsh_
+- Leetcode : https://leetcode.com/u/srivastavautkarsh_/
 
 My Talisman : - Design and Math is the language of universe
 - ⚡ Fun fact: 
