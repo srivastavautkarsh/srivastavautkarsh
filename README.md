@@ -12,7 +12,9 @@
 - 📫 How to reach me   
 
   Personally: Don't.
+
   Social media : https://www.Social.Media_is_an_addiction_algo.No_thanks
+
   Professionally: about.me/srivastavautkarsh
 - Alternate profile: https://github.com/utkarshsrivastava
 - Leetcode : https://leetcode.com/u/srivastavautkarsh_/
