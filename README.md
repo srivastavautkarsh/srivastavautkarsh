@@ -22,4 +22,4 @@
 Talisman : - Design and Math is the language of universe
 - ⚡ Fun fact: 
  - I can beat you in space trivia, harry potter trivia and air-hockey.
- - My shower thoughts are grade A, top notch, premium quality horses#it 
+ - My humor is grade A, top notch, premium quality horses#it  
