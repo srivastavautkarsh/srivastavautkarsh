@@ -9,10 +9,12 @@
 - 🤔 I’m looking for help with information overload, Analysis paralysis, cognitive numbing .
 - 😊 I love dogs , cats, kids and old people. I dislike everyone else
 - 💬 Ask me about anything software and product. Expert in backend and devOps. A student of life and Math.
-- 📫 How to reach me:
-- https://Social.Media_is_an_addiction_algo
- - srivastavautkarsh@myyahoo.com
- - about.me/srivastavautkarsh
+- 📫 How to reach me
+      - personally: Don't.
+      - social media link : https://www.Social.Media_is_an_addiction_algo.no_thanks
+      - Professionally:
+        - srivastavautkarsh@myyahoo.com
+        - about.me/srivastavautkarsh
 - Alternate profile: https://github.com/utkarshsrivastava
 - Leetcode : https://leetcode.com/u/srivastavautkarsh_/
 
