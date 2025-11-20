@@ -10,11 +10,10 @@
 - 😊 I love dogs , cats, kids and old people. I dislike everyone else
 - 💬 Ask me about anything software and product. Expert in backend and devOps. A student of life and Math.
 - 📫 How to reach me   
-      - personally: Don't.
-      - social media link : https://www.Social.Media_is_an_addiction_algo.no_thanks
-      - Professionally:
-        - srivastavautkarsh@myyahoo.com
-        - about.me/srivastavautkarsh
+
+  Personally: Don't.
+  Social media : https://www.Social.Media_is_an_addiction_algo.No_thanks
+  Professionally: about.me/srivastavautkarsh
 - Alternate profile: https://github.com/utkarshsrivastava
 - Leetcode : https://leetcode.com/u/srivastavautkarsh_/
 
